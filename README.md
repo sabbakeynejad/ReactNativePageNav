@@ -2,7 +2,8 @@
 This is a basic React Native Page Nav starter project
 I made this to be able to quickley start project. Please feel free to make edits
 
-![alt tag](http://imgur.com/a/KyJ0r)
+
+![Alt text](http://imgur.com/a/KyJ0r "Screenshot")
 
 Thanks Sabba
 
