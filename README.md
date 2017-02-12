@@ -3,8 +3,8 @@ This is a basic React Native Page Nav starter project<br />
 I made this to be able to quickley start project. Please feel free to make edits
 
 
-![ScreenShot](/screen.PNG)<br />
-<img src="/screen.PNG" width="200">
+
+<img src="/screen.PNG" width="300"><br />
 Thanks Sabba<br />
 
 
